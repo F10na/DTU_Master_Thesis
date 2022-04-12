@@ -23,4 +23,4 @@ event_sequences.csv: The resulting event sequences of all gaze datasets, combine
 
 ## Explanation of Data
 The data from Pupil Invisible contains personal information and is therefore not to be distributed. This data can only be accessed via a secure DTU server.
-The data from the Varjo are recorded personally and are provided in the folder "Varjo Experiments". This data is not IP.
+The data from the Varjo are recorded personally and are provided in the folder "Varjo Experiments".
