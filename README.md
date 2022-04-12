@@ -23,14 +23,4 @@ event_sequences.csv: The resulting event sequences of all gaze datasets, combine
 
 ## Explanation of Data
 The data from Pupil Invisible contains personal information and is therefore not to be distributed. This data can only be accessed via a secure DTU server.
-The data from the Varjo are recorded personally and is included in the folder "Varjo Experiments" with descriptions below:
-
-1 (a-c): 10 second intervals of fixation, saccades, blinks, vergence, smooth pursuit, VOR around y, VOR around x, VOR around z (torsion). All with fixed head (three trials).
-
-2: Looking around the room with fixed head for 20 seconds.
-
-3: Looking around the room with unfixed head for 20 seconds.
-
-4: Reading text on screen with fixed head for 20 seconds.
-
-5: Reading text on screen with unfixed head for 20 seconds.
+The data from the Varjo are recorded personally and are provided in the folder "Varjo Experiments". This data is not IP.
