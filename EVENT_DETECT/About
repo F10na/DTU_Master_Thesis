@@ -1,0 +1,5 @@
+main_GMM_out: Detects fixations, smooth pursuits, saccades and blinks given positional time-series gaze data from an eye tracker. Output is a csv of concatenated event sequenes with features.
+
+main_GMM_results: Analyzes the output csv file, including graphs.
+
+event_sequences.csv: The resulting event sequences of all gaze datasets, combined into one csv. Each event includes features such as duration, amplitude, maximum speed. Also included are the joint probabilities of each event.
